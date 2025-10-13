@@ -1,4 +1,4 @@
-# **Junior Data Analyst / Data Engineer / ML Engineer** 
+# **Data Analyst / Data Engineer / ML Engineer** 
 Работаю с данными, машинным обучением и аналитикой
 
 ---
