@@ -23,6 +23,8 @@ SQL | Power BI | Jupyter Notebook
 
 | [🏠 Housing Price Prediction](https://github.com/tiiaw/house-price-prediction) | Прогноз цен на жильё | Random Forest / XGBoost |
 
+| [🚢 Titanic Survival Prediction](https://github.com/tiiaw/titanic-survival-prediction) | Прогноз выживаемости пассажиров Титаника | Random Forest, Pandas, scikit-learn |
+
 ---
 
 ###  Обо мне
