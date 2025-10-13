@@ -19,7 +19,7 @@ SQL | Power BI | Jupyter Notebook
 
 | [🎬 IMDb Sentiment Analysis](https://github.com/tiiaw/imdb-sentiment-analysis) | Классификация отзывов на IMDb (положительные / отрицательные) | TF-IDF, Logistic Regression |
 | [📈 A/B Testing](https://github.com/tiiaw/a-b-test) | Проверка гипотез о влиянии нового интерфейса на конверсию | Pandas, SciPy, Matplotlib |
-| 🏠 Housing Price Prediction | Прогноз цен на жильё (Random Forest / XGBoost) | Python, Feature Engineering, Visualization |
+| [🏠 Housing Price Prediction](https://github.com/tiiaw/house-price-prediction) | Прогноз цен на жильё | Random Forest / XGBoost |
 
 ---
 
