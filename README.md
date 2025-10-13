@@ -29,6 +29,7 @@ SQL | Power BI | Jupyter Notebook
 - Участвую в соревнованиях Kaggle  
 - Постоянно развиваю навыки в Data Science  
 - Интересуюсь NLP и CV
+- Английский язык — B1/B2
 
 ---
 
