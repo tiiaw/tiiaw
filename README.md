@@ -4,7 +4,7 @@
 ---
 
 **Языки и библиотеки:**  
-Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Selenium)  
+Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost, LightGBM, Selenium)  
 SQL | Power BI | Jupyter Notebook
 
 **ML и анализ данных:**  
