@@ -25,6 +25,8 @@ SQL | Power BI | Jupyter Notebook
 
 | [🚢 Titanic Survival Prediction](https://github.com/tiiaw/titanic-survival-prediction) | Прогноз выживаемости пассажиров Титаника | Random Forest, Pandas, scikit-learn |
 
+| [♟️ Chess Move Prediction](https://github.com/tiiaw/chess-move-prediction) | Предсказание следующего шахматного хода по позиции | CNN, PyTorch |
+
 ---
 
 ###  Обо мне
