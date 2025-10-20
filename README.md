@@ -38,5 +38,4 @@ SQL | Power BI | Jupyter Notebook
 ---
 
 📫 **Контакты:**  
-Email: andrey1zaytsev@mail.ru  
-Telegram: @waiitpm
+Email: adsadd2020@mail.ru
